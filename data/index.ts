@@ -1,3 +1,5 @@
+import { link } from "fs";
+
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
@@ -206,16 +208,19 @@ export const navItems = [
     {
       id: 1,
       title: "github logo",
+      link: "https://github.com/kerryl02/",
       img: "/git.svg",
     },
     {
       id: 2,
       title: "twitter logo",
+      link: "https://x.com/kerryl_s",
       img: "/twit.svg",
     },
     {
       id: 3,
       title: "linkedin logo",
+      link: "https://www.linkedin.com/in/kerryl-soda-en-recherche-stage/",
       img: "/link.svg",
     },
   ];

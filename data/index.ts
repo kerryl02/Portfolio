@@ -174,29 +174,29 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Architecture du site et UX",
+      desc: "Je conçois des sites intuitifs et attractifs pour offrir une expérience fluide et accessible sur tous les appareils.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Sécurité du site",
+      desc: "Je mets en place des mesures de sécurité robustes pour protéger vos données et garantir la confiance des utilisateurs.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Performance technique",
+      desc: "J’optimise chaque aspect technique de votre site pour assurer une vitesse et une fiabilité maximales.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Contenu de qualité",
+      desc: "Je crée un contenu pertinent et engageant pour attirer vos visiteurs et améliorer votre visibilité SEO.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },

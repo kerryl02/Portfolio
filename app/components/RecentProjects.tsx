@@ -30,7 +30,7 @@ const RecentProjects = () => {
                                     alt={title}
                                     width={600} 
                                     height={600}
-                                    className="z-10 absolute bottom-0"
+                                    className="z-10 absolute top-0"
                                     layout="fixed"
                                 />
                             </div>
@@ -57,7 +57,6 @@ const RecentProjects = () => {
                                                 alt={icon}
                                                 width={24}
                                                 height={24}
-                                                className="p-2"
                                             />
                                         </div>
                                     ))}

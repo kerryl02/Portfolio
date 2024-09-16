@@ -74,18 +74,18 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "Agence de conception Web | Hexweb",
+      des: "Découvrez Hexweb, votre partenaire digital pour des sites web modernes, performants et sur mesure.",
+      img: "/p2.png",
+      iconLists: ["/vitejs.svg", "/tail.svg", "/nodejs.svg"],
+      link: "https://hexweb.fr/",
+    },
+    {
+      id: 2,
       title: "Outil de Gestion des Annonces Immobilières",
       des: "Découvrez notre outil de gestion immobilière en développement : simple, efficace et intuitif.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/kerryl02",
-    },
-    {
-      id: 2,
-      title: "Développement en Cours",
-      des: "",
-      img: "/p1.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/kerryl02",
     },
     {

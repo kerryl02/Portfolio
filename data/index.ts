@@ -84,7 +84,7 @@ export const navItems = [
       id: 2,
       title: "Boutique e-commerce",
       des: "Création d'un site e-commerce avec React, Node.js, et Stripe. Interface responsive avec Tailwind CSS.",
-      img: "/dzdzd.png",
+      img: "/dzdzd.svg",
       iconLists: ["/vitejs.svg", "/tail.svg", "/nodejs.svg"],
       link: "https://e-commerce-project-ik5s.vercel.app/",
     },

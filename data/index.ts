@@ -78,7 +78,7 @@ export const navItems = [
       des: "Découvrez Hexweb, votre partenaire digital pour des sites web modernes, performants et sur mesure.",
       img: "/p2.png",
       iconLists: ["/vitejs.svg", "/tail.svg", "/nodejs.svg"],
-      link: "https://hexweb.fr/",
+      link: "https://hexwebdigital.com/",
     },
     {
       id: 2,
